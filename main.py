@@ -4,8 +4,8 @@ import os
 
 from github import Github
 
-MD_HEAD = """## Gitblog
-My personal blog using issues and GitHub Actions
+MD_HEAD = """## 2021
+2021 一些日常和记录
 """
 
 BACKUP_DIR = "BACKUP"
